@@ -2,7 +2,7 @@ from arcgis import GIS
 import keyring
 from getpass import getpass
 
-# Purpose: Sample code for creating a 
+# Purpose: Sample code for creating a Credential Manager entry for ArcGIS login
 
 URL = "" # URL to ArcGIS Enterprise or AGOL environment
 
